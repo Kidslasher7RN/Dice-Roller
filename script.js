@@ -5,12 +5,12 @@ const cl = (input) => {
 cl("hello world");
 
 const dice_imgs = [
-  "https://game-icons.net/icons/ffffff/000000/1x1/delapouite/dice-six-faces-one.svg",
-  "https://game-icons.net/icons/ffffff/000000/1x1/skoll/inverted-dice-2.svg",
-  "https://game-icons.net/icons/ffffff/000000/1x1/skoll/inverted-dice-3.svg",
-  "https://game-icons.net/icons/ffffff/000000/1x1/skoll/inverted-dice-4.svg",
-  "https://game-icons.net/icons/ffffff/000000/1x1/skoll/inverted-dice-5.svg",
-  "https://game-icons.net/icons/ffffff/000000/1x1/skoll/inverted-dice-6.svg",
+  "dice source/dice-six-faces-one.svg",
+  "dice source/dice-six-faces-two.svg",
+  "dice source/dice-six-faces-three.svg",
+  "dice source/dice-six-faces-four.svg",
+  "dice source/dice-six-faces-five.svg",
+  "dice source/dice-six-faces-six.svg",
 ];
 
 const roll_btn = document.getElementById("roll-btn");
